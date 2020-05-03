@@ -20,6 +20,7 @@ import io.reactivex.rxjava3.core.CompletableObserver;
 import io.reactivex.rxjava3.disposables.Disposable;
 import io.reactivex.rxjava3.internal.disposables.DisposableHelper;
 import io.reactivex.rxjava3.internal.util.EndConsumerHelper;
+import io.reactivex.rxjava3.internal.api.EndConsumerHelper;
 
 /**
  * An abstract {@link CompletableObserver} that allows asynchronous cancellation by implementing Disposable.
