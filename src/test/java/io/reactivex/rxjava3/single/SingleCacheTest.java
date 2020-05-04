@@ -20,6 +20,7 @@ import io.reactivex.rxjava3.exceptions.TestException;
 import io.reactivex.rxjava3.observers.TestObserver;
 import io.reactivex.rxjava3.subjects.PublishSubject;
 import io.reactivex.rxjava3.subscribers.TestSubscriber;
+import io.reactivex.rxjava3.utils.TestSubscriber;
 
 public class SingleCacheTest extends RxJavaTest {
 
