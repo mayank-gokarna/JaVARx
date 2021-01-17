@@ -23,6 +23,8 @@
       <metadata name="net.sf.eclipsecs.core.lastEnabledSeverity" value="inherit"/>
     </module>
     <module name="PackageDeclaration"/>
+    <module name="NeedBraces"/>
+    <module name="EqualsHashCode"/>
     <module name="FinalClass"/>
     <module name="HideUtilityClassConstructor"/>
     <module name="WhitespaceAround">
